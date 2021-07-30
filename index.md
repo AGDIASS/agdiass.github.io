@@ -5,8 +5,8 @@
 O mesmo foi sugerido pelo professor Matheus Franco e tem o objetivo de elucidar o treinamento de uma rede neural.
 
 ## REDE NEURAL ARTIFICIAL
-### Click on here
-<div>Teachable Machine Image Model</div>
+### Click on here ou aqui!
+<div>  Teachable Machine Image Model </div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
@@ -71,8 +71,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Até Brave Galera!!!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AGDIASS/agdiass.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
