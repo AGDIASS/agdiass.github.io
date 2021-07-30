@@ -2,7 +2,7 @@
 
 Este trabalho foi desenvolvido por ##André Guilherme Dias de Souza## utilizando o [editor on GitHub](https://github.com/AGDIASS/agdiass.github.io/edit/main/index.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O mesmo foi sugerido pelo professor Matheus Franco e tem o objetivo de elucidar o treinamento de uma rede neural.
 
 ```markdown
 <div>Teachable Machine Image Model</div>
