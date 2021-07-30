@@ -1,8 +1,12 @@
 ## Bem vindos!!! ou HELLO WORD se preferirem ;)
 
-#Este trabalho foi desenvolvido por André Guilherme Dias de Souza utilizando o [editor on GitHub](https://github.com/AGDIASS/agdiass.github.io/edit/main/index.md).
+Este trabalho foi desenvolvido por:
+## André Guilherme Dias de Souza 
+utilizando o [editor on GitHub](https://github.com/AGDIASS/agdiass.github.io/edit/main/index.md).
 
-O mesmo foi sugerido pelo professor Matheus Franco e tem o objetivo de elucidar o treinamento de uma rede neural.
+O mesmo foi sugerido pelo professor:
+## Matheus Franco 
+e tem o objetivo de elucidar o treinamento de uma rede neural.
 
 ## REDE NEURAL ARTIFICIAL
 ### Click on here ou aqui!
