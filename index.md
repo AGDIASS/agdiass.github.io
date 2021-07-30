@@ -1,4 +1,4 @@
-## Bem vindos!!!
+## Bem vindos!!! ou HELLO WORD se preferirem ;)
 
 #Este trabalho foi desenvolvido por André Guilherme Dias de Souza utilizando o [editor on GitHub](https://github.com/AGDIASS/agdiass.github.io/edit/main/index.md).
 
@@ -69,7 +69,7 @@ Click on here
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Até Brave Galera!!!
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AGDIASS/agdiass.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
