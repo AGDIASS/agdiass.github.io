@@ -9,7 +9,7 @@ O mesmo foi sugerido pelo professor:
 e tem o objetivo de elucidar o treinamento de uma rede neural.
 
 ## REDE NEURAL ARTIFICIAL
-### Click on here ou aqui!
+## Click on here ou aqui!
 <div>  Teachable Machine Image Model </div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
@@ -73,6 +73,6 @@ e tem o objetivo de elucidar o treinamento de uma rede neural.
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Até Brave Galera!!!
+## Até Brave Galera!!!
 
 
