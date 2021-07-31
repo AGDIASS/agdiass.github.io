@@ -72,7 +72,7 @@ e tem o objetivo de elucidar o treinamento de uma rede neural.
 </script>
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para mais detalhes [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Até Brave Galera!!!
 
