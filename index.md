@@ -8,8 +8,9 @@ O mesmo foi sugerido pelo professor:
 ## Matheus Franco 
 e tem o objetivo de elucidar o treinamento de uma rede neural.
 
-## REDE NEURAL ARTIFICIAL
-## Click on here ou aqui!
+## PROJETO REDES NEURAIS ARTIFICIAIS
+![download](download.jfif)
+
 <div>  Teachable Machine Image Model </div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
