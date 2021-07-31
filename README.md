@@ -1,2 +1,2 @@
 ## PROJETO REDE NEURAL
-![download](download.png)
+![download](download.jfif)
